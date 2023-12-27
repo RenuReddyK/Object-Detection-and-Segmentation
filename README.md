@@ -21,14 +21,19 @@ Original Image | Image with Predicted Mask
 ## SegFormer:
 Constructed from the research paper, SegFormer is a cutting-edge semantic segmentation model that adopts a transformer-based architecture, demonstrating state-of-the-art performance in pixel-level image segmentation tasks.
 <p align="center">
-
-</p>
+  
+Ground Truth | Original Image | Predicted Mask 
+--- | --- | ---
+ ![](https://github.com/RenuReddyK/Object-Detection-and-Segmentation/assets/68454938/83cafdda-c438-4fbb-a709-68bb7b6cfb62") | ![](https://github.com/RenuReddyK/Object-Detection-and-Segmentation/assets/68454938/723824a5-d104-45c3-b7a8-0d240d989128) | ![](https://github.com/RenuReddyK/Object-Detection-and-Segmentation/assets/68454938/708d8ba6-4b13-487d-9c96-24f4c657906f)
+ </p>
 
 ## VAE:
 Implemented a Variational Autoencoder (VAE) on the Fashion MNIST dataset involving training a neural network architecture to learn a probabilistic mapping of input images to a latent space. 
 <p align="center">
 
-</p>
+ Original Image | Reconstructed Image 
+--- | ---
+ ![](https://github.com/RenuReddyK/Object-Detection-and-Segmentation/assets/68454938/5f676a68-d718-4a6c-a5bd-72b0d58296d3") | ![](https://github.com/RenuReddyK/Object-Detection-and-Segmentation/assets/68454938/0b5bd2f9-af69-4f5a-9b51-dde66833ee32)
 
 ## CycleGAN:
 Constructed from scratch following the research paper, CycleGAN on STL-10 dataset. It is a powerful unsupervised learning model that facilitates domain adaptation by mapping images from one domain to another without paired training data, showcasing impressive results in image-to-image translation tasks.
