@@ -27,29 +27,6 @@ Ground Truth | Original Image | Predicted Mask
  ![](https://github.com/RenuReddyK/Object-Detection-and-Segmentation/assets/68454938/83cafdda-c438-4fbb-a709-68bb7b6cfb62") | ![](https://github.com/RenuReddyK/Object-Detection-and-Segmentation/assets/68454938/723824a5-d104-45c3-b7a8-0d240d989128) | ![](https://github.com/RenuReddyK/Object-Detection-and-Segmentation/assets/68454938/708d8ba6-4b13-487d-9c96-24f4c657906f)
 </p>
 
-## VAE:
-Implemented a Variational Autoencoder (VAE) on the Fashion MNIST dataset involving training a neural network architecture to learn a probabilistic mapping of input images to a latent space. 
-<p align="center">
-
-Original Image | Reconstructed Image 
---- | ---
- ![](https://github.com/RenuReddyK/Object-Detection-and-Segmentation/assets/68454938/5f676a68-d718-4a6c-a5bd-72b0d58296d3") | ![](https://github.com/RenuReddyK/Object-Detection-and-Segmentation/assets/68454938/0b5bd2f9-af69-4f5a-9b51-dde66833ee32)
- </p>
-
-## CycleGAN:
-Constructed from scratch following the research paper, CycleGAN on STL-10 dataset. It is a powerful unsupervised learning model that facilitates domain adaptation by mapping images from one domain to another without paired training data, showcasing impressive results in image-to-image translation tasks.
-<p align="center">
- 
-GAN Generated Images at epoch 15 | GAN Generated Images at epoch 30 | GAN Generated Images at epoch 45 
---- | --- | ---
- ![](https://github.com/RenuReddyK/Object-Detection-and-Segmentation/assets/68454938/6f007a68-e2d3-474d-9b39-48c8c9ded937") | ![](https://github.com/RenuReddyK/Object-Detection-and-Segmentation/assets/68454938/3178bf31-c701-41b9-a06a-c98b7659853d) | ![](https://github.com/RenuReddyK/Object-Detection-and-Segmentation/assets/68454938/598220f9-78d8-4d05-9e84-c16388da55f0) 
-
-GAN Generated Images at epoch 60 | GAN Generated Images at epoch 75 | GAN Generated Images at epoch 90
---- | --- | ---
-![](https://github.com/RenuReddyK/Object-Detection-and-Segmentation/assets/68454938/599806fc-d728-4770-9baf-60867fce4840") | ![](https://github.com/RenuReddyK/Object-Detection-and-Segmentation/assets/68454938/69f84535-d990-4b1b-89f6-2be56867d959) | ![](https://github.com/RenuReddyK/Object-Detection-and-Segmentation/assets/68454938/b2eed21c-a27f-41f0-a10b-22dc7a3c1c1c)
-
-</p>
-
 
 # References:
 [1] https://doi.org/10.48550/arXiv.1506.02640 <br>
