@@ -1,4 +1,5 @@
 # Object-Detection-and-Segmentation
+Implemeted the following from sracth by following the research papers:
 
 ## YOLO:
 Implemented from scratch based on the original research paper, YOLO (You Only Look Once) is a real-time object detection algorithm that efficiently processes images in a single pass, providing high accuracy and speed.
@@ -32,6 +33,4 @@ Ground Truth | Original Image | Predicted Mask
 [1] https://doi.org/10.48550/arXiv.1506.02640 <br>
 [2] https://doi.org/10.48550/arXiv.1912.04488 <br>
 [3] https://doi.org/10.48550/arXiv.2105.15203 <br>
-[4] Diederik P Kingma and Max Welling. Auto-encoding variational bayes. arXiv preprint arXiv:1312.6114, 2013. <br>
-[5] IanGoodfellow,JeanPouget-Abadie,MehdiMirza,BingXu,DavidWarde-Farley,SherjilOzair,Aaron Courville, and Yoshua Bengio. Generative adversarial nets. In Advances in neural information pro- cessing systems, pages 2672–2680, 2014. <br>
-[6] Jun-Yan Zhu, Taesung Park, Phillip Isola, and Alexei A Efros. Unpaired image-to-image translation using cycle-consistent adversarial networks. In Proceedings of the IEEE international conference on computer vision, pages 2223–2232, 2017.
+
