@@ -4,13 +4,19 @@
 Implemented from scratch based on the original research paper, YOLO (You Only Look Once) is a real-time object detection algorithm that efficiently processes images in a single pass, providing high accuracy and speed.
 <p align="center">
 
-</p>
+Original Image | Image with Predicted Label NMS
+--- | ---
+ ![](https://github.com/RenuReddyK/Object-Detection-and-Segmentation/assets/68454938/7a634f35-b57b-46e3-953d-0aa4dd916b56") | ![](https://github.com/RenuReddyK/Object-Detection-and-Segmentation/assets/68454938/7db9d191-d82d-4216-ae4b-b3127014cdb3) 
+ </p>
 
 ## SOLO:
 Developed from the ground up using research paper insights, SOLO (Segmentation of Objects by Learning Only) is a sophisticated instance segmentation model that excels in precisely delineating individual object instances within an image.
 <p align="center">
-
-</p>
+  
+Original Image | Image with Predicted Mask
+--- | ---
+ ![](https://github.com/RenuReddyK/Object-Detection-and-Segmentation/assets/68454938/fa800270-5553-4b41-9d57-a93becefd7b0") | ![](https://github.com/RenuReddyK/Object-Detection-and-Segmentation/assets/68454938/150eda5b-2ea7-419c-8215-e4d1f4f8de97) 
+ </p>
 
 ## SegFormer:
 Constructed from the research paper, SegFormer is a cutting-edge semantic segmentation model that adopts a transformer-based architecture, demonstrating state-of-the-art performance in pixel-level image segmentation tasks.
